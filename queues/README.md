@@ -1,4 +1,6 @@
-# What is Queue in Data Structures?
+# QUEUES
+
+## What is Queue in Data Structures?
 
 A queue is a linear data structure that follows 
 the First-In-First-Out (FIFO) principle. It operates 
@@ -7,11 +9,11 @@ and removed from the other end (front).
 
 ## Applications of Queue
 
--> Task scheduling in operating systems
--> Data transfer in network communication
--> Simulation of real-world systems (e.g., waiting lines)
+- Task scheduling in operating systems
+- Data transfer in network communication
+- Simulation of real-world systems (e.g., waiting lines)
 
-## Basic Operations of Queue Data Structure_
+## Basic Operations
 
 - [x] constructor
 - [x] enqueue

@@ -1,22 +1,27 @@
-_What is Stack Data Structure?_
+# STACKS
+
+## What is Stack Data Structure?
 
 A stack is a linear data structure that follows 
 the Last-In-First-Out (LIFO) principle. It behaves 
 like a stack of plates, where the last plate added 
 is the first one to be removed.
 
-_Basic Operations of Stack Data Structures_
+## Applications of Stack Data Structures
 
--> Push: Adds an element to the top of the stack.
--> Pop: Removes the top element from the stack.
--> Peek: Returns the top element without removing it.
--> IsEmpty: Checks if the stack is empty.
--> getSize  
+- Recursion
+- Expression Evaluation and Parsing
+- Depth-First Search (DFS)
+- Undo/Redo Operations
+- Browser History
 
-_Applications of Stack Data Structures_
+## Basic Operations of Stack Data Structures
 
--> Recursion
--> Expression Evaluation and Parsing
--> Depth-First Search (DFS)
--> Undo/Redo Operations
--> Browser History
+- [x] [Link to Github]
+- [x] constructor
+- [x] push
+- [x] pop
+- [x] getSize
+- [x] isEmpty
+- [x] peek
+- [x] print
