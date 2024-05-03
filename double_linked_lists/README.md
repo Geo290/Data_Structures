@@ -1,4 +1,4 @@
-# DOUBLE LINKED LISTS
+# DOUBLY LINKED LISTS
 
 ## What is Doubly Linked List?
 
@@ -18,3 +18,17 @@ next node of the linked list.
 - In Operating Systems, a doubly linked list is maintained 
     by thread scheduler to keep track of processes that are 
     being executed at that time.
+
+## Basic opertaions
+
+- [x] DoubleLinkedList constructor
+- [x] addToHead
+- [x] addToTail
+- [x] insertAt
+- [x] removeFromHead
+- [x] removeFromTail
+- [x] removeData
+- [x] print
+- [x] printReverse
+- [x] getSize
+- [x] isEmpty
