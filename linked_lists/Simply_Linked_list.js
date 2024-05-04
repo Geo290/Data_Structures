@@ -131,16 +131,17 @@ const linkedList = new Linkedlist();
 
 linkedList.add(12);
 linkedList.add(99);
-linkedList.insertAt(10,1);
+linkedList.add(1043);
+// linkedList.insertAt(10,1);   
 
 // linkedList.removeData(12);
 
 // console.log( linkedList.removeFrom(0) );
 
-console.log( linkedList.print() );
+// console.log( linkedList.print() );
 
-console.log( linkedList.getSize() );
+// console.log( linkedList.getSize() );
 
-console.log( linkedList.isEmpty() );
+// console.log( linkedList.isEmpty() );
 
-// console.log(linkedList);
+console.log(linkedList);
